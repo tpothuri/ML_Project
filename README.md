@@ -12,7 +12,7 @@ Each project is organized into a separate **branch** for better modularity and f
 2. Click on the **"Branch" dropdown** near the top-left corner (above the file list).
 3. Select the branch corresponding to the project you're interested in.
 
-### 📂 Branch List (Sample)
+### 📂 Branch List
 | Branch Name             | Description                              |
 |-------------------------|------------------------------------------|
 | `main`                  | Overview and instructions                |
